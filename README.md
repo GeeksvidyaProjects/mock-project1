@@ -1,2 +1,3 @@
-# mock-project1
-Created with CodeSandbox
+# mock-project
+
+We develope projects here
