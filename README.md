@@ -1,3 +1,3 @@
 # mock-project
 
-We develope projects here
+this is what look like
